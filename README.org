@@ -1,0 +1,4 @@
+#+title: Dev Flakes
+
+This is a repository for direnv template flakes so I can quickly setup a project
+with a certain language.
