@@ -33,7 +33,7 @@
 
         ];
         shellHook = ''
-          echo "Python Started!"
+          echo "Python Ready!"
         '';
       };
     };
