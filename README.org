@@ -6,7 +6,7 @@ with a certain language.
 *  How to Use
 for example, to install a python3.13 flake simply run:
 #+begin_src bash
-wget https://raw.githubusercontent.com/Zivision/dev-flakes/main/base-laguages/python/313/flake.nix
+wget https://raw.githubusercontent.com/Zivision/dev-flakes/main/base-languages/python/313/flake.nix
 #+end_src
 In the root of a project. Then define your .envrc and enable direnv
 #+begin_src bash
